@@ -1,0 +1,2 @@
+[deleted password]==>[deleted password]
+regex:pass*d*$==>pass**d**
